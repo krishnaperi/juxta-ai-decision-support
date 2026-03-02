@@ -10,7 +10,7 @@
 
 ---
 
-## 🏢 Background
+## 📄 Background
 
 Juxta was an autonomous retail venture incubated inside Vontier — a frictionless micro-convenience store where consumers walk in, grab what they need, and walk out with zero checkout friction. Retail operators making expansion, pricing, and operational decisions are drowning in fragmented data. This system was built to fix that.
 
